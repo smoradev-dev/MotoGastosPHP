@@ -1,0 +1,20 @@
+[
+    {
+        "fecha": "2026-11-02",
+        "categoria": "Gasolina",
+        "descripcion": "Tanqueada en la bomba",
+        "valor": 25000
+    },
+    {
+        "fecha": "2026-11-08",
+        "categoria": "Mantenimiento",
+        "descripcion": "Cambio de aceite",
+        "valor": 45000
+    },
+    {
+        "fecha": "2026-11-15",
+        "categoria": "Repuestos",
+        "descripcion": "Pastillas de freno",
+        "valor": 38000
+    }
+]
